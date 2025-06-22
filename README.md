@@ -1,10 +1,15 @@
 # 🔒 Modern Active Directory Security Analyzer
 Modern, kapsamlı Active Directory güvenlik analizi ve raporlama aracı. PowerShell AD kontrollerini Python'a dönüştürür ve güzel HTML raporları oluşturur.
-![image](https://github.com/user-attachments/assets/ecac0c16-75bc-4754-8ab2-31f23c60312c)
 
-![image](https://github.com/user-attachments/assets/ee4fc6f1-ce3c-46c4-8a6b-76cc5459ca57)
-![image](https://github.com/user-attachments/assets/f1931622-b213-4557-bec5-ba8fc5bd9eef)
-![image](https://github.com/user-attachments/assets/d8db2dec-d2f1-4df5-b71c-284d659088b3)
+![image](https://github.com/user-attachments/assets/a4078aa7-356a-4c14-b233-7a691f467b9a)
+
+![image](https://github.com/user-attachments/assets/ec3660cb-2ae2-4eb9-b589-edc08ae6c21b)
+
+![image](https://github.com/user-attachments/assets/4868f6a2-40b3-4ebc-a80c-68fd51178f07)
+
+![image](https://github.com/user-attachments/assets/6feac705-c98d-4abf-b221-20530b903525)
+
+![image](https://github.com/user-attachments/assets/eae879c2-211e-462b-b5ba-1e23da8c7873)
 
 
 ## ✨ Özellikler
@@ -96,13 +101,16 @@ password = your-app-password
 ## 📸 Ekran Görüntüleri
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![image](https://github.com/user-attachments/assets/ecbd7fe7-3521-46cf-9c0e-151222749dd9)
+
 
 ### Security Report
-![Report](screenshots/report.png)
+![image](https://github.com/user-attachments/assets/95b5cfb6-fb46-4412-a98f-e52230853c2c)
+
 
 ### Historical Trends
-![History](screenshots/history.png)
+![image](https://github.com/user-attachments/assets/cea9db16-df6c-49ac-84c3-57ea196921d0)
+
 
 ## 🔧 Konfigürasyon
 
@@ -152,3 +160,4 @@ MIT License - Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 ---
 
 ⭐ **Beğendiyseniz yıldız atmayı unutmayın!**
+Önder AKÖZ - https://ondernet.net
