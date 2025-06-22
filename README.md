@@ -146,7 +146,7 @@ MIT License - Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
 ## 🆘 Destek
 
-- **Issues:** [GitHub Issues](https://github.com/kullaniciadi/Active-Directory-Security-Analyzer/issues)
+- **Issues:** [GitHub Issues](https://github.com/onder7/Active-Directory-Security-Analyzer/issues)
 - **Discussions:** Sorularınız için GitHub Discussions kullanın
 
 ## 🏷️ Versiyon Geçmişi
